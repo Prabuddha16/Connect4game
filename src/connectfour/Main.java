@@ -3,7 +3,7 @@
 //GLA University
 // Connect 4 Game
 //IDE - IntelliJ Idea
-//By  using Java library JavaFX
+//By using Java library JavaFX
 
 package connectfour;
 

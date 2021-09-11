@@ -29,8 +29,8 @@ public class Controller implements Initializable
     private static final int ROWS = 6;
     private static final int CIRCLE_DIAMETER = 80;
 
-    private static final String discColor1 = "#24303E";
-    private static final String discColor2 = "#4CAA88";
+    private static final String discColor1 = "#0e0d3d";
+    private static final String discColor2 = "#960b0b";
 
     private static String PLAYER_ONE = "Player One"; // Changes on User input
     private static String PLAYER_TWO = "Player Two"; // Changes on User input
